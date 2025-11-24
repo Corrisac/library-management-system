@@ -1,0 +1,105 @@
+B|Emma Frost|Psylocke|1234|1|2025-11-24 17:01:16
+B|The Maidens|Alex Michaelides|9781250304452|1|2025-11-23 12:00:00
+B|The Silent Patient|Alex Michaelides|9781250301697|1|2025-11-23 12:00:00
+B|A Slow Fire Burning|Paula Hawkins|9780735211247|1|2025-11-23 12:00:00
+B|Into the Water|Paula Hawkins|9780735211216|1|2025-11-23 12:00:00
+B|The Girl on the Train|Paula Hawkins|9781594634024|1|2025-11-23 12:00:00
+B|Dark Places|Gillian Flynn|9780307341570|1|2025-11-23 12:00:00
+B|Sharp Objects|Gillian Flynn|9780307341556|1|2025-11-23 12:00:00
+B|Gone Girl|Gillian Flynn|9780307588371|1|2025-11-23 12:00:00
+B|The Last Town|Blake Crouch|9781612184142|1|2025-11-23 12:00:00
+B|Wayward|Blake Crouch|9781612184135|1|2025-11-23 12:00:00
+B|Pines|Blake Crouch|9781612183954|1|2025-11-23 12:00:00
+B|Upgrade|Blake Crouch|9780593157534|1|2025-11-23 12:00:00
+B|Recursion|Blake Crouch|9781524759797|1|2025-11-23 12:00:00
+B|Dark Matter|Blake Crouch|9781101904244|1|2025-11-23 12:00:00
+B|Armada|Ernest Cline|9780804137270|1|2025-11-23 12:00:00
+B|Ready Player Two|Ernest Cline|9780593158777|1|2025-11-23 12:00:00
+B|Ready Player One|Ernest Cline|9780307887443|1|2025-11-23 12:00:00
+B|Artemis|Andy Weir|9780553448146|1|2025-11-23 12:00:00
+B|Project Hail Mary|Andy Weir|9780593135204|1|2025-11-23 12:00:00
+B|The Martian|Andy Weir|9780553418026|1|2025-11-23 12:00:00
+B|Dragon Teeth|Michael Crichton|9780062473356|1|2025-11-23 12:00:00
+B|Micro|Michael Crichton|9780060873172|1|2025-11-23 12:00:00
+B|Pirate Latitudes|Michael Crichton|9780061929380|1|2025-11-23 12:00:00
+B|Next|Michael Crichton|9780060873165|1|2025-11-23 12:00:00
+B|State of Fear|Michael Crichton|9780061015731|1|2025-11-23 12:00:00
+B|Prey|Michael Crichton|9780061703089|1|2025-11-23 12:00:00
+B|Timeline|Michael Crichton|9780345417626|1|2025-11-23 12:00:00
+B|Andromeda Strain|Michael Crichton|9780345378484|1|2025-11-23 12:00:00
+B|Congo|Michael Crichton|9780345378491|1|2025-11-23 12:00:00
+B|Sphere|Michael Crichton|9780345353146|1|2025-11-23 12:00:00
+B|The Lost World|Michael Crichton|9780345538994|1|2025-11-23 12:00:00
+B|Jurassic Park|Michael Crichton|9780345538987|1|2025-11-23 12:00:00
+B|The Lost Symbol|Dan Brown|9780385504225|1|2025-11-23 12:00:00
+B|Inferno|Dan Brown|9780385537858|1|2025-11-23 12:00:00
+B|Angels & Demons|Dan Brown|9780671027360|1|2025-11-23 12:00:00
+B|The Da Vinci Code|Dan Brown|9780307474278|1|2025-11-23 12:00:00
+B|Green Mile|Stephen King|9781501192265|1|2025-11-23 12:00:00
+B|Pet Sematary|Stephen King|9781501156700|1|2025-11-23 12:00:00
+B|Carrie|Stephen King|9780307743664|1|2025-11-23 12:00:00
+B|Misery|Stephen King|9781501143106|1|2025-11-23 12:00:00
+B|The Stand|Stephen King|9780307743688|1|2025-11-23 12:00:00
+B|It|Stephen King|9781501142970|1|2025-11-23 12:00:00
+B|The Shining|Stephen King|9780307743657|1|2025-11-23 12:00:00
+B|A Dance with Dragons|George R.R. Martin|9780553801477|1|2025-11-23 12:00:00
+B|A Feast for Crows|George R.R. Martin|9780553801507|1|2025-11-23 12:00:00
+B|A Storm of Swords|George R.R. Martin|9780553106633|1|2025-11-23 12:00:00
+B|A Clash of Kings|George R.R. Martin|9780553108033|1|2025-11-23 12:00:00
+B|A Game of Thrones|George R.R. Martin|9780553103540|1|2025-11-23 12:00:00
+B|The Hitchhiker's Guide|Douglas Adams|9780345391803|1|2025-11-23 12:00:00
+B|Snow Crash|Neal Stephenson|9780553380958|1|2025-11-23 12:00:00
+B|Neuromancer|William Gibson|9780441569595|1|2025-11-23 12:00:00
+B|Ender's Game|Orson Scott Card|9780812550702|1|2025-11-23 12:00:00
+B|The Handmaid's Tale|Margaret Atwood|9780385490818|1|2025-11-23 12:00:00
+B|Brave New World|Aldous Huxley|9780060850524|1|2025-11-23 12:00:00
+B|Fahrenheit 451|Ray Bradbury|9781451673319|1|2025-11-23 12:00:00
+B|I, Robot|Isaac Asimov|9780553294385|1|2025-11-23 12:00:00
+B|Second Foundation|Isaac Asimov|9780553293364|1|2025-11-23 12:00:00
+B|Foundation and Empire|Isaac Asimov|9780553293371|1|2025-11-23 12:00:00
+B|Foundation|Isaac Asimov|9780553293357|1|2025-11-23 12:00:00
+B|Chapterhouse: Dune|Frank Herbert|9780441102679|1|2025-11-23 12:00:00
+B|Heretics of Dune|Frank Herbert|9780441328000|1|2025-11-23 12:00:00
+B|God Emperor of Dune|Frank Herbert|9780441294671|1|2025-11-23 12:00:00
+B|Children of Dune|Frank Herbert|9780441104024|1|2025-11-23 12:00:00
+B|Dune Messiah|Frank Herbert|9780441172696|1|2025-11-23 12:00:00
+B|Dune|Frank Herbert|9780441172719|1|2025-11-23 12:00:00
+B|Return of the King|J.R.R. Tolkien|9780547928197|1|2025-11-23 12:00:00
+B|Two Towers|J.R.R. Tolkien|9780547928203|1|2025-11-23 12:00:00
+B|Fellowship of the Ring|J.R.R. Tolkien|9780547928210|1|2025-11-23 12:00:00
+B|The Hobbit|J.R.R. Tolkien|9780547928227|1|2025-11-23 12:00:00
+B|Harry Potter 7|J.K. Rowling|9780545010221|1|2025-11-23 12:00:00
+B|Harry Potter 6|J.K. Rowling|9780747581083|1|2025-11-23 12:00:00
+B|Harry Potter 5|J.K. Rowling|9780747551000|1|2025-11-23 12:00:00
+B|Harry Potter 4|J.K. Rowling|9780747546242|1|2025-11-23 12:00:00
+B|Harry Potter 3|J.K. Rowling|9780747542152|1|2025-11-23 12:00:00
+B|Harry Potter 2|J.K. Rowling|9780747538490|1|2025-11-23 12:00:00
+B|Harry Potter 1|J.K. Rowling|9780747532696|1|2025-11-23 12:00:00
+B|Discrete Mathematics|Rosen|9780073383095|1|2025-11-23 12:00:00
+B|Computer Architecture|Hennessy & Patterson|9780123704900|1|2025-11-23 12:00:00
+B|Compilers|Aho & Lam|9780321486813|1|2025-11-23 12:00:00
+B|Database System Concepts|Silberschatz|9780073523323|1|2025-11-23 12:00:00
+B|Operating System Concepts|Silberschatz|9781118063330|1|2025-11-23 12:00:00
+B|Computer Networking|Kurose & Ross|9780136079675|1|2025-11-23 12:00:00
+B|Artificial Intelligence|Russell & Norvig|9780136042594|1|2025-11-23 12:00:00
+B|Structure and Interpretation|Abelson & Sussman|9780262510875|1|2025-11-23 12:00:00
+B|The Mythical Man-Month|Fred Brooks|9780201835953|1|2025-11-23 12:00:00
+B|Code Complete|Steve McConnell|9780735619678|1|2025-11-23 12:00:00
+B|The C Programming Language|Kernighan & Ritchie|9780131103627|1|2025-11-23 12:00:00
+B|Introduction to Algorithms|Cormen et al.|9780262033848|1|2025-11-23 12:00:00
+B|Python Crash Course|Eric Matthes|9781593276034|1|2025-11-23 12:00:00
+B|Head First Java|Kathy Sierra|9780596009205|1|2025-11-23 12:00:00
+B|Refactoring|Martin Fowler|9780201485677|1|2025-11-23 12:00:00
+B|Design Patterns|Erich Gamma|9780201633610|1|2025-11-23 12:00:00
+B|The Pragmatic Programmer|Andrew Hunt|9780201616224|1|2025-11-23 12:00:00
+B|Clean Code|Robert C. Martin|9780132350884|1|2025-11-23 12:00:00
+B|Effective C++|Scott Meyers|9780321334879|1|2025-11-23 12:00:00
+B|C++ Primer|Lippman et al.|9780321714114|1|2025-11-23 12:00:00
+B|Pride and Prejudice|Jane Austen|9780141439518|1|2025-11-23 12:00:00
+B|1984|George Orwell|9780451524935|1|2025-11-23 12:00:00
+B|To Kill a Mockingbird|Harper Lee|9780061120084|1|2025-11-23 12:00:00
+B|The Great Gatsby|F. Scott Fitzgerald|9780743273565|1|2025-11-23 12:00:00
+B|CLI Test Book|CLI Author|99999|1|2025-11-24 16:57:34
+U|3|Bruce Wayne|bruce@wayne.com|0
+U|2|Tony Stark|tony@stark.com|0
+U|1|John Wick|0300-1111111|0
