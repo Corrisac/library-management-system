@@ -1,0 +1,6 @@
+# Build output (build it yourself, see README)
+*.exe
+*.o
+*.obj
+*.out
+__pycache__/
